@@ -1,0 +1,28 @@
+header , .main-div {
+    background-color: #24353f;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main-div {
+   color: #17a2b8;
+
+}
+.success {
+    color: #198754;
+}
+header nav a{
+    width: 50px;
+}
+input {
+    background-color: #24353f;
+
+}
+::placeholder {
+    color: white !important;
+}
+nav, .main-div{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
